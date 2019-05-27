@@ -1,5 +1,5 @@
-//Today we are going to write a program to understand boolean expressions in Go Language..
-
+//Today we are going to write a program to understand boolean expressions in Go Language.
+//Author--> Shivam Yadav
 
 package main
 import "fmt"
