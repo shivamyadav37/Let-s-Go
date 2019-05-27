@@ -1,4 +1,5 @@
-//Program tto depict use of Variables in Go Language..
+//Program tto depict use of Variables in Go Language.
+//Author--> Shivam Yadav
 
 package main
 import "fmt"
