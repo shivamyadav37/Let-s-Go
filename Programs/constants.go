@@ -1,4 +1,4 @@
-//We are writing a program to assign a constant here.
+//We are writing a program to assign a constant here
 
 package main
 import "fmt"
