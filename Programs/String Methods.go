@@ -1,3 +1,4 @@
+//Program To Show Simple Strings Methods In Go.
 package main
 import "fmt"
 func main(){
