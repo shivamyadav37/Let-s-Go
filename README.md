@@ -1,7 +1,7 @@
 # Let-s-Go
 **Go language Programs and Tutorials**
 
-This repo was created for Dummies.
+This repo was created for Noobs.
 
 
 **Go Language Video Tutorials  [here](https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA?view_as=subscriber)**
